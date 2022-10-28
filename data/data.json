@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "SAS Programming",
+    "price": 109.95,
+    "description": "This course is for users who want to learn how to write SAS programs to access, explore, prepare, and analyze data. It is the entry point to learning SAS programming for data science, machine learning, and artificial intelligence. It is a prerequisite to many other SAS courses.",
+    "category": "men's clothing",
+    "image": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/12148/course_12148_image.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "Java Programming",
+    "price": 75.5,
+    "description": "This course of study builds on the skills gained by students in Java Fundamentals or Java Foundations to help advance Java programming skills. Students will design object-oriented applications with Java and will create Java programs using hands-on, engaging activities.",
+    "category": "men's clothing",
+    "image": "https://technogeekscs.com/wp-content/uploads/2022/02/Advance-Java-Course.png",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 3,
+    "title": "Angular JS ",
+    "price": 55.99,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "men's clothing",
+    "image": "http://www.programmerspoint.in/images/angular-course.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
+  },
+  {
+    "id": 4,
+    "title": "C Programming ",
+    "price": 99.99,
+    "description": "AngularJS is an open-source framework that helps you build dynamic web applications. This module discusses the AngularJS web framework for developing single-page applications and its need. This module focuses on addressing the various features of AngularJS like Data Binding.",
+    "category": "men's clothing",
+    "image": "https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png",
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    }
+  },
+  {
+    "id": 5,
+    "title": "Linux Programming",
+    "price": 95,
+    "description": " This course provides a deep understanding of the operating system architecture and low-level interfaces (principally, system calls and library functions) that are required to build system-level, multithreaded, and network applications on Linux and UNIX systems.",
+    "category": "jewelery",
+    "image": "https://miro.medium.com/max/730/0*SOW9caZs9ouRukN8.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    }
+  },
+  {
+    "id": 6,
+    "title": "Node JS ",
+    "price": 109.99,
+    "description": "This Node. js Certification course trains you to construct scalable web apps using Express Framework and Nginx. In this course, you'll learn how to develop MongoDB backed applications, implement testing, build microservices applications, and build a real-time chat app using Socket IO.",
+    "category": "jewelery",
+    "image": "https://www.filepicker.io/api/file/nlMKa4JeSBysXoj7pa90",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    }
+  }
+]
