@@ -2,10 +2,10 @@
   {
     "id": 1,
     "title": "SAS Programming",
-    "price": 109.95,
+    "price": 109.99,
     "description": "This course is for users who want to learn how to write SAS programs to access, explore, prepare, and analyze data. It is the entry point to learning SAS programming for data science, machine learning, and artificial intelligence. It is a prerequisite to many other SAS courses.",
     "category": "men's clothing",
-    "image": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/12148/course_12148_image.jpg",
+    "image": "https://www.edureka.co/blog/wp-content/uploads/2017/06/SAS-Tutorial.png",
     "rating": {
       "rate": 3.9,
       "count": 120
