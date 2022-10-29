@@ -18,14 +18,12 @@ app.get(`/courses/:id`, (req, res) => {
   const id = req.params.id;
   const specificCourse = data.find((course) => course.id == id);
   res.send(specificCourse);
-  console.log(id);
 });
 
 app.get(`/courses/buyCourse:id`, (req, res) => {
   const id = req.params.id;
   const specificCourse = data.find((course) => course.id == id);
   res.send(specificCourse);
-  console.log(id);
 });
 
 app.listen(port, () => {
