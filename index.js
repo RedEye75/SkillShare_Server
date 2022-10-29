@@ -14,10 +14,11 @@ app.get("/courses", (req, res) => {
   res.send(data);
 });
 
-app.get("/courses/:id", (req, res) => {
+app.get(`/courses/:id`, (req, res) => {
   const id = req.params.id;
-  const specificCourse = courses.find((course) => course.id == id);
+  const specificCourse = data.find((course) => course.id == id);
   res.send(specificCourse);
+  console.log(id);
 });
 
 app.listen(port, () => {
